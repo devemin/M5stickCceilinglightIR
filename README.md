@@ -31,7 +31,7 @@ https://twitter.com/devemin/status/1251153219574657025?s=20
 
 リモコン FRC-194T(W)
 
-#参考
+# 参考
 
 http://elm-chan.org/docs/ir_format.html
 
