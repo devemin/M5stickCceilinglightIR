@@ -20,6 +20,8 @@ M5StickC の赤外線端子は出力が弱いので、よく近づけて動作�
 
 # 動作の様子
 
+https://twitter.com/devemin/status/1251907084859224066
+
 https://twitter.com/devemin/status/1251153219574657025?s=20
 
 
