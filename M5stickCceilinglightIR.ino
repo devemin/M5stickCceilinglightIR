@@ -9,7 +9,7 @@ struct REMOTE {
   int bitnum;
   uint64_t command;
 };
-// リモコンコード一覧
+// リモコンコード一覧 name, bit数, コマンド
 REMOTE remote[] = {
   { "ON" , 32, 0xE730E817UL },
   { "M2" , 64, 0xE73017E8B0705017UL },
