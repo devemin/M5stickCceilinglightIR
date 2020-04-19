@@ -14,6 +14,7 @@ M5StickCからシーリングライトをON/OFF/メモリ２ボタンをトグ�
 
 このスケッチは、特にライブラリ追加は必要ありません。M5StickC環境だけです。
 
+Ｔ値は、私の東芝シーリングライトに合わせた値に変えましたが、通常は562usec のようです（ＮＥＣリモコンコマンド規格、末尾ＵＲＬ参照）
 
 # 動作の様子
 
@@ -28,6 +29,12 @@ https://twitter.com/devemin/status/1251153219574657025?s=20
 
 リモコン FRC-194T(W)
 
+#参考
 
+http://elm-chan.org/docs/ir_format.html
+
+https://blog.goo.ne.jp/jh7ubc/e/4740cd8da9def6fafad48f0745359371
+
+https://www.mgo-tec.com/blog-entry-ledc-pwm-arduino-esp32.html
 
 # MIT Liscense
