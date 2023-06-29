@@ -45,4 +45,4 @@ https://blog.goo.ne.jp/jh7ubc/e/4740cd8da9def6fafad48f0745359371
 
 https://www.mgo-tec.com/blog-entry-ledc-pwm-arduino-esp32.html
 
-# MIT Liscense
+# MIT License
